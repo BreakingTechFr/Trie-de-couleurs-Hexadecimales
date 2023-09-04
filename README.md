@@ -11,5 +11,5 @@ A partir d'un fichier .txt ce programme trie vos couleurs hexadecimales en utili
 python3 /..chemin_du_fichier/charte.py
 - Cliquez sur le bouton "Parcourir" pour rechercher le fichier "code.txt"
 - Une nouvelle fenêtre apparaitra pour vous afficher l'ordre des couleurs triées en 3 colonnes Rouge, Vert et Bleu. 
-Chaque colonne triera ses couleurs de la plus claire à la plus foncée.
+Chaque colonne triera ses couleurs de la couleur la plus claire à la plus foncée.
 - Appuyez sur le bouton extraire, pour extraire dans un fichier .txt le résultat du trie précédent.
